@@ -1,0 +1,26 @@
+#education {
+	margin-top: 150px;
+	border-style: solid;
+	border-color: #9de7d7;
+	padding: 50px;
+}
+
+#education h2 {
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 3.0;
+	color: #1f356f;
+}
+
+#education p {
+	font-size: 14px;
+	color: #1f356f;
+}
+
+#edu {
+	margin-bottom: 50px
+}
+
+#uni {
+	font-style: italic;
+}

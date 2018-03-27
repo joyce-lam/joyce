@@ -1,0 +1,22 @@
+#experience {
+	border-style: solid;
+	border-color: #9de7d7;
+	padding: 50px;
+}
+
+#experience h2 {
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 3.0;
+	color: #1f356f;
+}
+
+#experience p {
+	font-size: 14px;
+	color: #1f356f;
+}
+
+#period {
+	margin-bottom: 50px
+}
+

@@ -1,0 +1,26 @@
+#about-me {
+	padding: 15px;
+	margin-top: 50px;
+	margin-bottom: 150px;
+	width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#about-head h2 {
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 3.0;
+	color: #1f356f;
+}
+
+#description {
+	color: #1f356f;
+	font-size: 14px
+}
+
+img{
+	height: 35px;
+	width: auto;
+}
