@@ -1,7 +1,7 @@
 import React from "react";
 import "./AboutMe.css";
 import githublogo from "./githublogo.png";
-import linkedinlogo from "/static/media/linkedin.a08f59f4.png";
+import linkedinlogo from "./linkedin.png";
 console.log(githublogo)
 console.log(linkedinlogo)
 
