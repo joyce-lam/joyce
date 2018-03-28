@@ -1,7 +1,7 @@
 import React from "react";
 import "./Banner.css";
 
-const Banner = () => (
+const Banner = props => (
 	<div id="banner">
 		<div className="container-fluid">
 			<div className="col-12 banner">

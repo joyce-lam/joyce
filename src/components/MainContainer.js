@@ -2,7 +2,7 @@ import React from "react";
 import Banner from "./Banner";
 import AboutMe from "./AboutMe";
 import BodyContainer from "./BodyContainer";
-
+import images from "../images.js";
 
 export default class MainContainer extends React.Component {
 
@@ -10,9 +10,10 @@ export default class MainContainer extends React.Component {
 		super(props);
 		this.state = {
 			github: `https://github.com/joyce-lam`,
-			linkedin: `https://www.linkedin.com/in/joycesnlam/`,
-			ghlogo: `https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png`,
-			lnlogo: `https://image.freepik.com/free-icon/linkedin-logo-ios-7-interface-symbol_318-33633.jpg`
+			linkedin: `https://www.linkedin.com/in/joycesnlam/`,			
+			ghlogo: images[1].github,
+			lnlogo: images[2].linkedin,
+			map: images[0].worldmap
 		};
 	}
 
@@ -24,7 +25,8 @@ export default class MainContainer extends React.Component {
 	render() {
 	        return (
 	            <div>
-	            	<Banner />
+	            	<Banner 
+	            	map={this.state.map}/>
 	            	<AboutMe 
 	            	githublink={this.state.github}
 	            	linkedinlink={this.state.linkedin}

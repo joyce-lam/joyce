@@ -16,10 +16,10 @@ const AboutMe = props => (
 		</div>
 		<div className="row">
 			<div className="col-xs-12 col-sm-12 col-md-6 social text-right" >
-				<a href={props.githublink}><img alt="github" src={props.ghlogo} /></a>
+				<a href={props.githublink}><img alt="github" src={process.env.PUBLIC_URL + "/images/github.png"} /></a>
 			</div>
 			<div className="col-xs-12 col-sm-12 col-md-6 social text-left">
-				<a href={props.linkedinlink}><img alt="linkedin" src={props.lnlogo} /></a>
+				<a href={props.linkedinlink}><img alt="linkedin" src={process.env.PUBLIC_URL + "/images/linkedin.png"} /></a>
 			</div>
 		</div>
 	</div>
