@@ -1,7 +1,9 @@
 import React from "react";
 import "./AboutMe.css";
-import githublogo from "./github.png";
-import linkedinlogo from "./linkedin.png";
+import githublogo from "./githublogo.png";
+import linkedinlogo from "/static/media/linkedin.a08f59f4.png";
+console.log(githublogo)
+console.log(linkedinlogo)
 
 const AboutMe = props => (
 	<div className="container" id="about-me">
