@@ -14,7 +14,8 @@ const AboutMe = props => (
 		</div>
 		<div className="row">
 			<div className="col-xs-12 col-sm-12 col-md-12 text-center" id="description">
-				<p>Hi! I am Joyce. I was born and raised in Hong Kong. Then I went to Australia for college. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+				<p>Hi! My name is Joyce. I was born and raised in Hong Kong. Moved to Australia for college and went back to Hong Kong for work before I moved to San Francisco 6 months ago. 
+				<p>I am a full-stack engineer with a strong healthcare background. From my days as a clinical dietitian to a health lecturer to a software developer, I have taken delight in thinking on behalf of my customers and creating delightful experiences.</p>
 			</div>
 		</div>
 		<div className="row">
