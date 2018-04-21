@@ -14,7 +14,7 @@ const AboutMe = props => (
 		</div>
 		<div className="row">
 			<div className="col-xs-12 col-sm-12 col-md-12 text-center" id="description">
-				<p>Hi! My name is Joyce. I was born and raised in Hong Kong. Moved to Australia for college and went back to Hong Kong for work before I moved to San Francisco 6 months ago.</p>
+				<p>Hi! My name is Joyce. I was born and raised in Hong Kong. Moved to Australia for college and went back to Hong Kong for work before I moved to San Francisco a few months ago.</p>
 				<p>I am a full-stack engineer with a strong healthcare background. From my days as a clinical dietitian to a health lecturer to a software developer, I have taken delight in thinking on behalf of my customers and creating delightful experiences.</p>
 			</div>
 		</div>
