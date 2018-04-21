@@ -35,6 +35,7 @@ const Experience = () => (
 				<li>L series of A-Z symposium organized by the Hong Kong Society of Endocrinology, Metabolism, and Reproduction (2016 Apr 21).</li>
 				<li>Update of Diabetes Management organized by Queen Mary Hospital and The University of Hong Kong (2015 Oct 31).</li>
 				<li>Post-graduate Study Day for clinicians organized by the Department of Obstetrics and Gynaecology of The University of Hong Kong (2015 Apr 1).</li>
+			</ul>
 		</div>
 	</div>
 
