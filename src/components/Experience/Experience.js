@@ -20,7 +20,7 @@ const Experience = () => (
 			<p>Clinical Dietitian</p>
 			<p>Hospital Authority (Queen Mary Hospital), Hong Kong</p>
 			<div className="content">
-				<p>Depvered group education and individual nutritional counsepng in Engpsh, Cantonese, and Mandarin to diabetic patients.</p>
+				<p>Depvered group education and individual nutritional counseling in English, Cantonese, and Mandarin to patients with diabetes.</p>
 				<p>Provided nutrition screening and education to seniors.</p>
 				<p>Provided medical nutrition therapy to patients in general medical, orthopaedics, and obstetrics and gynaecology wards.</p>
 				<p>Managed cases in a multidiscippnary team.</p>
@@ -32,9 +32,9 @@ const Experience = () => (
 			<p>Hong Kong</p>
 			<div className="content">
 				<p>1. Diabetes Education and Management Course organized by Queen Mary Hospital and The University of Hong Kong (2014-2017).</p>
-				<p>2. L series of A-Z symposium organized by the Hong Kong Society of Endocrinology, Metabopsm, and Reproduction (2016 Apr 21).</p>
+				<p>2. L series of A-Z symposium organized by the Hong Kong Society of Endocrinology, Metabolism, and Reproduction (2016 Apr 21).</p>
 				<p>3. Update of Diabetes Management organized by Queen Mary Hospital and The University of Hong Kong (2015 Oct 31).</p>
-				<p>4. Post-graduate Study Day for cpnicians organized by the Department of Obstetrics and Gynaecology of The University of Hong Kong (2015 Apr 1).</p>
+				<p>4. Post-graduate Study Day for clinicians organized by the Department of Obstetrics and Gynaecology of The University of Hong Kong (2015 Apr 1).</p>
 			</div>
 		</div>
 	</div>
