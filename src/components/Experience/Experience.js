@@ -23,7 +23,7 @@ const Experience = () => (
 				<p>Delivered group education and individual nutritional counseling in English, Cantonese, and Mandarin to patients with diabetes.</p>
 				<p>Provided nutrition screening and education to seniors.</p>
 				<p>Provided medical nutrition therapy to patients in general medical, orthopaedics, and obstetrics and gynaecology wards.</p>
-				<p>Managed cases in a multidiscippnary team.</p>
+				<p>Managed cases in a multidisciplinary team.</p>
 			</div>
 		</div>
 		<div id="period">
