@@ -12,7 +12,7 @@ const Experience = () => (
 				<p>A real-time marketplace for ticket swaps between season ticket subscribers.</p>
 				<p>Built with Node.js + Express backend and React frontend.</p>
 				<p>Authenticated users using OAuth 2.0 with passport.js authentication middleware via social networks pke Google and Facebook.</p>
-				<p>Designed data persistence model and query layer in MySQL with sequepze ORM.</p>
+				<p>Designed data persistence model and query layer in MySQL with Sequelize ORM.</p>
 			</div>
 		</div>
 		<div id="period">
