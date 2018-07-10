@@ -7,7 +7,16 @@ const Experience = () => (
 		<div id="period">
 			<p>2018</p>
 			<p>Software Engineer</p>
-			<p>Seat Swap Project</p>
+			<p>CryptoPortfolio Project</p>
+			<div className="content">
+				<p>A service for managing a portfolio of cryptocurrencies.</p>
+				<p>Built a restful service API with Node.js + Express backend and React frontend.</p>
+				<p>Designed a downstream request caching and throttling mechanism using Redis cache for sensitive API services.</p>
+				<p>Implemented JSON Web Token (JWT) as a stateless authorization mechanism.</p>
+				<p>Designed data persistence model and query layer in MySQL with Sequelize ORM.</p>
+			</div>
+			<br />
+			<p>SeatSwap Project</p>
 			<div className="content">
 				<p>A real-time marketplace for ticket swaps between season ticket subscribers.</p>
 				<p>Built with Node.js + Express backend and React frontend.</p>
