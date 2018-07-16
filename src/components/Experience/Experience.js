@@ -1,5 +1,12 @@
 import React from "react";
 import "./Experience.css";
+import cplanding from "./CPLanding.png";
+import portfoliopic from "./Your_Portfolio.png";
+import walletpic from "./Your_Wallet.png";
+import managepic from "./Manage_Your_Account.png";
+import sidebarpic from "./Sidebar.png";
+import sslanding from "./SSlanding.png";
+import sshome from "./SShome.png";
 
 const Experience = () => (
 	<div className="col-12 text-center" id="experience">
@@ -14,7 +21,30 @@ const Experience = () => (
 				<p>Designed a downstream request caching and throttling mechanism using Redis cache for sensitive API services.</p>
 				<p>Implemented JSON Web Token (JWT) as a stateless authorization mechanism.</p>
 				<p>Designed data persistence model and query layer in MySQL with Sequelize ORM.</p>
+				<div className="row">
+					<div className="col-xs-12 col-sm-6 col-md-6 text-center">
+						<img className="proj-pic" alt="cp-landing" src={cplanding}></img>
+					</div>
+					<div className="col-xs-12 col-sm-6 col-md-6 text-center">
+						<img className="proj-pic" alt="cp-portfolio" src={portfoliopic}></img>
+					</div>
+				</div>
+				<div className="row">
+					<div className="col-xs-12 col-sm-6 col-md-6 text-center">
+						<img className="proj-pic" alt="cp-wallet" src={walletpic}></img>
+					</div>
+					<div className="col-xs-12 col-sm-6 col-md-6 text-center">
+						<img className="proj-pic" alt="cp-manage" src={managepic}></img>
+					</div>
+				</div>
+				<div className="row">
+					<div className="col-xs-12 col-sm-6 col-md-6 text-center">
+						<img className="proj-pic" alt="cp-sidebar" src={sidebarpic}></img>
+					</div>
+				</div>
 			</div>
+			<br />
+			<br />
 			<br />
 			<p>SeatSwap Project</p>
 			<div className="content">
@@ -22,6 +52,14 @@ const Experience = () => (
 				<p>Built with Node.js + Express backend and React frontend.</p>
 				<p>Authenticated users using OAuth 2.0 with passport.js authentication middleware via social networks pke Google and Facebook.</p>
 				<p>Designed data persistence model and query layer in MySQL with Sequelize ORM.</p>
+				<div className="row">
+					<div className="col-xs-12 col-sm-6 col-md-6 text-center">
+						<img className="proj-pic" alt="ss-landing" src={sslanding}></img>
+					</div>
+					<div className="col-xs-12 col-sm-6 col-md-6 text-center">
+						<img className="proj-pic" alt="ss-home" src={sshome}></img>
+					</div>
+				</div>
 			</div>
 		</div>
 		<div id="period">
