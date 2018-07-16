@@ -21,6 +21,7 @@
 }
 
 .proj-pic {
-	width: auto;
-	height: 220px;
+	width: 320px;
+	height: 250px;
+	padding: 5px;
 }

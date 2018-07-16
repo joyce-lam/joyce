@@ -19,11 +19,11 @@ const AboutMe = props => (
 			</div>
 		</div>
 		<div className="row">
-			<div className="col-xs-12 col-sm-12 col-md-6 social text-right" >
-				<a href={props.githublink}><img alt="github" src={githublogo}></img></a>
+			<div className="col-xs-12 col-sm-12 col-md-6 social text-center" >
+				<a href={props.githublink}><img className="logo" alt="github" src={githublogo}></img></a>
 			</div>
-			<div className="col-xs-12 col-sm-12 col-md-6 social text-left">
-				<a href={props.linkedinlink}><img alt="linkedin" src={linkedinlogo}></img></a>
+			<div className="col-xs-12 col-sm-12 col-md-6 social text-center">
+				<a href={props.linkedinlink}><img className="logo" alt="linkedin" src={linkedinlogo}></img></a>
 			</div>
 		</div>
 	</div>
