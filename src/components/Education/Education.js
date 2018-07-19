@@ -7,7 +7,7 @@ const Education = () => (
 		<div id="edu">
 			<p>2018</p>
 			<p>Software Engineering Course</p>
-			<p id="uni">University of Berkeley Extension</p>
+			<p id="uni">University of California Berkeley Extension</p>
 		</div>
 		<div id="edu">
 			<p>2015 - 2017</p>
